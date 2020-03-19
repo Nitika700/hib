@@ -1,1 +1,2 @@
-This is here to check branching concept
+This is here to check branching concept.
+These changes are made for cloning concept.
